@@ -1,6 +1,7 @@
 {
   "name": "jquery.pubsub",
   "version": "0.1.0",
+  "main": "jquery.pubsub.js",
   "description": "Pub/Sub implementation for jQuery.",
   "repository": {
     "type": "git",
@@ -8,6 +9,7 @@
   },
   "keywords": [
     "pubsub",
+    "jquery-plugin",
     "on",
     "one",
     "off",
@@ -16,7 +18,11 @@
     "subscribe",
     "unsubscribe"
   ],
-  "author": "felixexter",
+  "author": {
+    "name": "Felix Exter",
+    "email": "felixexter@ya.ru",
+    "url": "https://github.com/felixexter"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/felixexter/jquery.pubsub/issues"
